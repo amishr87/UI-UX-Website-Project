@@ -3,11 +3,6 @@
 ## Access Link
 https://www.figma.com/file/B8TnqayYoIo8gzCYnXTone/CSE463?type=design&node-id=0%3A1&mode=design&t=pzxF3QaIxF5VPoLD-1 
 
-## Installations
-
-- [Python](https://www.python.org/downloads/) v3.8.0 or greater
-- [Flask](https://flask.palletsprojects.com/en/2.0.x/installation/#install-flask) (Python Version 3.7 or greater)
-
 ## Preview
 
 Login Page:
