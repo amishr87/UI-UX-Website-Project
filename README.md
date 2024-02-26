@@ -5,16 +5,20 @@
 
 ## Preview
 
-Main Page:
-<img width="1512" alt="Screenshot 2024-02-24 at 7 37 08 PM" src="https://github.com/amishr87/UI-UX-Website-Basic/assets/160732081/09bad1b4-0849-4545-bdbd-9f4dea26b225">
-<img width="1512" alt="Screenshot 2024-02-24 at 7 37 15 PM" src="https://github.com/amishr87/UI-UX-Website-Basic/assets/160732081/d274ec90-ba48-43a9-beb7-78f01a009708">
-<img width="1512" alt="Screenshot 2024-02-24 at 7 37 20 PM" src="https://github.com/amishr87/UI-UX-Website-Basic/assets/160732081/fcad5f35-0985-4946-bac8-cac9192a6225">
-<img width="1512" alt="Screenshot 2024-02-24 at 7 37 26 PM" src="https://github.com/amishr87/UI-UX-Website-Basic/assets/160732081/d7fb6979-5194-47fa-b9dd-8868a30eb1a3">
-<img width="1512" alt="Screenshot 2024-02-24 at 7 37 34 PM" src="https://github.com/amishr87/UI-UX-Website-Basic/assets/160732081/10a05e06-a153-46ef-9dfb-91fd43e11a32">
+Login Page:
+<img width="1512" alt="Screenshot 2024-02-21 at 7 10 41 PM" src="https://github.com/amishr87/UI-UX-Figma/assets/160732081/68469743-49d4-41fa-bc05-c01ef43c6157">
 
-Search Bar:
-<img width="1512" alt="Screenshot 2024-02-24 at 7 37 39 PM" src="https://github.com/amishr87/UI-UX-Website-Basic/assets/160732081/e0e678da-082f-49d9-a657-fb3c6d687eae">
 
-Shopping Cart:
-<img width="1512" alt="Screenshot 2024-02-24 at 7 37 43 PM" src="https://github.com/amishr87/UI-UX-Website-Basic/assets/160732081/788930b3-d3e9-490e-816b-2456b9fb7379">
+Photo Gallery:
+<img width="1512" alt="Screenshot 2024-02-21 at 7 10 48 PM" src="https://github.com/amishr87/UI-UX-Figma/assets/160732081/83900656-8142-4f6d-a5b0-1eaf931160b2">
+
+Information Form:
+<img width="1512" alt="Screenshot 2024-02-21 at 7 11 03 PM" src="https://github.com/amishr87/UI-UX-Figma/assets/160732081/fd064e92-0494-4d7e-ae88-57933a7f469a">
+
+Blog Page:
+<img width="1512" alt="Screenshot 2024-02-21 at 7 11 15 PM" src="https://github.com/amishr87/UI-UX-Figma/assets/160732081/ebfa419b-c479-4c35-b7ef-7d35721878ab">
+
+Calculator Module:
+<img width="1512" alt="Screenshot 2024-02-21 at 7 11 20 PM" src="https://github.com/amishr87/UI-UX-Figma/assets/160732081/bc0df767-fa36-4084-a1ab-3df0ae182a68">
+
 
